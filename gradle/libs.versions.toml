@@ -1,0 +1,9 @@
+[metadata]
+format = { version = "1.1" }
+
+[versions]
+spongeAPI = "8.0.0"
+
+# If you chose to use this as a dependency management rather than
+# using SpongeGradle's plugin for plugin developers, you can refer to the api as
+# implementation(libs.sponge.api) in a dependencies block
