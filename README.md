@@ -12,3 +12,6 @@ Drop the jar into /plugins folder for Sponge
 
 ### Support
 DM me "RealMaiWaifu" on discord
+
+### Special thanks to
+https://github.com/mosemister

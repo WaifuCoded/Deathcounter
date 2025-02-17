@@ -1,0 +1,18 @@
+{
+  "loader": {
+    "name": "java_plain",
+    "version": "1.0"
+  },
+  "license": "MIT",
+  "plugins": [
+    {
+      "id": "deathcounter",
+      "entrypoint": "org.waifucoded.deathcounter.DeathCounter",
+      "name": "Deathcounter",
+      "description": "Tracks player deaths per user",
+      "version": "1.0-SNAPSHOT",
+      "branding": {},
+      "links": {}
+    }
+  ]
+}
