@@ -4,6 +4,7 @@ name: Build with GitHub Actions
 
 on:
   push:
+  workflow_dispatch:
 
 jobs:
   build:
